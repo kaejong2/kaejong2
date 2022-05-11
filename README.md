@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3eb489&height=250&section=header&text=JongJin%20Lee&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 
-<p align="center"> 
-   💻 AI Engineer.  <br>
-   👩‍🎓   Kookmin Univ. Electrical Engineering.  <br>
-   📌 **[BLOG](https://http://kaejong2.github.io/about/)** |
-   **[EMAIL](mailto:kaejong2@gmail.com)** |
-   **[RESUME](https://programmers.co.kr/pr/jongjin)**
-</p>
+
+💻 AI Engineer.  
+👩‍🎓   Kookmin Univ. Electrical Engineering.  
+📌 **[BLOG](https://http://kaejong2.github.io/about/)** |
+**[EMAIL](mailto:kaejong2@gmail.com)** |
+**[RESUME](https://programmers.co.kr/pr/jongjin)**
+
 
 
 <p align="center">⚒️ Skills</p>
