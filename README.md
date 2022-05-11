@@ -6,7 +6,7 @@
   👩‍🎓   Kookmin Univ. Electrical Engineering.  <br>
   📌
   <p align="center">
-  <a href="https://kaejong.tistory.com/1"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
+  <a href="https://kaejong.tistory.com/1"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Storyblok&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
   <a href="https://programmers.co.kr/job_profiles/edit"><img src="https://img.shields.io/badge/RESUME-5522FA?style=flat-square&logo=HEY&logoColor=white&link=https://programmers.co.kr/job_profiles/edit"/></a>&nbsp
   <a href="mailto:kaejong2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kaejong2@gmail.com"/></a>
 </p>
