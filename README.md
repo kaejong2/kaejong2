@@ -3,7 +3,9 @@
 
 <p align="center"> 
    💻 AI Engineer.  
+   
    👩‍🎓   Kookmin Univ. Electrical Engineering.  
+   
    📌 **[BLOG](https://http://kaejong2.github.io/about/)** |
    **[EMAIL](mailto:kaejong2@gmail.com)** |
    **[RESUME](https://programmers.co.kr/pr/jongjin)**
