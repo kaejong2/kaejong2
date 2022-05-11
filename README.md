@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3eb489&height=250&section=header&text=JongJin%20Lee&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-💻 AI Engineer
-👩‍🎓   Kookmin Univ. Electrical Engineering
+💻 AI Engineer.  
+👩‍🎓   Kookmin Univ. Electrical Engineering.  
 📌 **[BLOG](https://http://kaejong2.github.io/about/)** |
 **[EMAIL](mailto:kaejong2@gmail.com)** |
 **[RESUME](https://programmers.co.kr/pr/jongjin)**
@@ -9,6 +9,7 @@
 
 <h2>⚒️ Skills</h2>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
