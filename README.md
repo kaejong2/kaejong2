@@ -10,22 +10,7 @@
 </p>
 
 
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
-
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=black"/></a>&nbsp 
-
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>&nbsp 
-  <img src="(https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>&nbsp 
-
- 
-</p>
-
-
-<h2>⚒️ Skills</h2>
+<p align="center">⚒️ Skills</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
